@@ -9,4 +9,4 @@
 9.  Хэш таблица.
 10. Trie (префиксное) дерево.
 11. Blockchain
-12. Динамическое программирование (задача на лабу https://leetcode.com/problems/unique-paths/solutions/3994523/98-83-easy-dp-math/)
+12. Динамическое программирование (задача на лабу knapsack.py + https://leetcode.com/problems/unique-paths/solutions/3994523/98-83-easy-dp-math/)
